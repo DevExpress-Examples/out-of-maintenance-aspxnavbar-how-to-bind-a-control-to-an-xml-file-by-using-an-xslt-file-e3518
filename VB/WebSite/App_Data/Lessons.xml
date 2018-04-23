@@ -1,0 +1,28 @@
+<Menus>
+  <Menu text="abc1">
+    <ProductID>193</ProductID>
+    <PLID>3</PLID>
+    <ProductName>090 - Introduction</ProductName>
+    <Description />
+    <DateAdded>2010-07-05T00:00:00-04:00</DateAdded>
+    <Scheduled>No</Scheduled>
+    <PTName>Video</PTName>
+    <PDName>On-Demand</PDName>
+    <PLName>lvl 1</PLName>
+    <LevelNumber>1</LevelNumber>
+    <PCName>Education</PCName>
+  </Menu>
+  <Menu text="abc2">
+    <ProductID>200</ProductID>
+    <PLID>3</PLID>
+    <ProductName>101 - Introduction to Investment Income</ProductName>
+    <Description />
+    <DateAdded>2010-07-21T00:00:00-04:00</DateAdded>
+    <Scheduled>No</Scheduled>
+    <PTName>Video</PTName>
+    <PDName>On-Demand</PDName>
+    <PLName>lvl 1</PLName>
+    <LevelNumber>1</LevelNumber>
+    <PCName>Education</PCName>
+  </Menu>
+</Menus>
