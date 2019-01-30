@@ -61,7 +61,7 @@
 
 
 <p>You can learn more about XML transformation files from the following sources:</p>
-<p><a href="http://weblogs.asp.net/rajbk/Contents/Item/Display/954"><u>Using XSLT files with the new XMLDataSource control</u></a><br /> <a href="http://www.w3schools.com/xsl/xsl_transformation.asp"><u>XSLT - Transformation</u></a></p>
+<p><a href="http://weblogs.asp.net/rajbk/Contents/Item/Display/954"><u>Using XSLT files with the new XMLDataSource control</u></a><br /> <a href="https://www.w3schools.com/xml/xsl_transformation.asp"><u>XSLT - Transformation</u></a></p>
 
 <br/>
 
