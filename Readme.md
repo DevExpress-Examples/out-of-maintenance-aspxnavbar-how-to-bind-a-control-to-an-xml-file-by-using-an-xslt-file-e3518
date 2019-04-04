@@ -4,7 +4,7 @@
 * [Lessons.xml](./CS/WebSite/App_Data/Lessons.xml) (VB: [Lessons.xml](./VB/WebSite/App_Data/Lessons.xml))
 * [Lessons.xsl](./CS/WebSite/App_Data/Lessons.xsl) (VB: [Lessons.xsl](./VB/WebSite/App_Data/Lessons.xsl))
 * [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
-* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxNavBar - How to bind a control to an XML file by using an XSLT file
 
