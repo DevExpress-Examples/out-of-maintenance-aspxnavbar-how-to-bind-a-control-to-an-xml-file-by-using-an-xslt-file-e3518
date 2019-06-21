@@ -7,6 +7,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxNavBar - How to bind a control to an XML file by using an XSLT file
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3518/)**
+<!-- run online end -->
 
 
 <p>When the ASPxNavBar is bound to XmlDataSource, the latter should suit the following structure:</p>
